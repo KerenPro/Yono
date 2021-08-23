@@ -1,7 +1,10 @@
+import Homepage from "./Containers/Homepage";
 
 function App() {
   return (
-    <div>App</div>
+    <div>
+      <Homepage />
+    </div>
   );
 }
 

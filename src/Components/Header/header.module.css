@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    background: #D1D7E5;
+}
+
+.logo {
+    padding: 10px 5px;
+}
+
+.heading {
+    padding-left: 10px;
+}
